@@ -1,0 +1,24 @@
+[submodule "salt/base/consul"]
+	path = salt/base/consul
+	url = git@github.com:saltstack-formulas/consul-formula.git
+[submodule "salt/base/elrepo"]
+	path = salt/base/elrepo
+	url = git@github.com:saltstack-formulas/elrepo-formula.git
+[submodule "salt/base/docker"]
+	path = salt/base/docker
+	url = git@github.com:saltstack-formulas/docker-formula.git
+[submodule "salt/base/haproxy"]
+	path = salt/base/haproxy
+	url = git@github.com:saltstack-formulas/haproxy-formula.git
+[submodule "salt/formulas/haproxy"]
+	path = salt/formulas/haproxy
+	url = git@github.com:saltstack-formulas/haproxy-formula.git
+[submodule "salt/formulas/consul"]
+	path = salt/formulas/consul
+	url = git@github.com:saltstack-formulas/consul-formula.git
+[submodule "salt/formulas/docker"]
+	path = salt/formulas/docker
+	url = git@github.com:saltstack-formulas/docker-formula.git
+[submodule "salt/formulas/elrepo"]
+	path = salt/formulas/elrepo
+	url = git@github.com:saltstack-formulas/elrepo-formula.git
